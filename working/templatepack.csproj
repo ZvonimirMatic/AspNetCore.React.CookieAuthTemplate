@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <PackageId>AspNetCore.React.CookieAuthTemplate</PackageId>
     <Title>ASP.NET Core with React and Cookie authentication template</Title>
     <Authors>Zvonimir Matić</Authors>
@@ -19,6 +19,9 @@
 
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/ZvonimirMatic/AspNetCore.React.CookieAuthTemplate.git</RepositoryUrl> 
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/ZvonimirMatic/AspNetCore.React.CookieAuthTemplate</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
