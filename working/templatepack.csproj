@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <PackageId>AspNetCore.React.CookieAuthTemplate</PackageId>
     <Title>ASP.NET Core with React and Cookie authentication template</Title>
     <Authors>Zvonimir Matić</Authors>
